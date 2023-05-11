@@ -7,7 +7,7 @@
   "description": "To do List",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "npm install"
   },
   "author": "",
   "license": "ISC",
