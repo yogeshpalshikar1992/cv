@@ -1,5 +1,8 @@
 {
   "name": "todolist",
+   "engines": {
+    "node": ">=14 <15"
+  },
   "version": "1.0.0",
   "description": "To do List",
   "main": "app.js",
